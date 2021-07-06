@@ -1,0 +1,6 @@
+node_modules/
+artifacts/
+build/contracts/*.json
+.env
+.env.development
+cache/
